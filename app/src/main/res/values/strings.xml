@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="fecha">Fecha de nacimiento</string>
+    <string name="telefono">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="descripcion">Descripción Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="editar">Editar Datos</string>
+    <string name="ems">10</string>
+    <string name="linea">1</string>
+    <string name="campos">20</string>
+    <string name="text_confirmar">Confirmar Datos</string>
+    <string name="text_nombre">Pepito Pérez</string>
+    <string name="text_fecha">11/11/1979</string>
+    <string name="text_telefono">555220000</string>
+    <string name="text_email">pperez@gmail.com</string>
+    <string name="text_descripcion">Creciendo Juntos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">correo</string>
+    <string name="pdescripcion">descripcion</string>
+    <string name="action_settings">Settings</string>
+    <string name="abrirFecha">Fecha Nacimiento</string>
+    <string name="abrirTel">Tel:</string>
+    <string name="abrirEmail">Email</string>
+    <string name="abrirDescripcion">Descripción</string>
+    <string name="your_menu_item">YOUR_MENU_ITEM</string>
+
+</resources>

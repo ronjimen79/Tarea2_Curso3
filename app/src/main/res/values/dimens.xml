@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="leftLayout">16dp</dimen>
+    <dimen name="left">32dp</dimen>
+    <dimen name="confirmar">22dp</dimen>
+    <dimen name="nombre">18dp</dimen>
+    <dimen name="fecha">18dp</dimen>
+    <dimen name="telefono">18dp</dimen>
+    <dimen name="email">18dp</dimen>
+    <dimen name="descripcion">18dp</dimen>
+</resources>
